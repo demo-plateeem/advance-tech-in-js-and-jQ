@@ -1,0 +1,23 @@
+{
+  "name": "js-learning",
+  "version": "1.0.0",
+  "description": "pluralsight学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demo-plateeem/advance-tech-in-js-and-jQ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demo-plateeem/advance-tech-in-js-and-jQ/issues"
+  },
+  "homepage": "https://github.com/demo-plateeem/advance-tech-in-js-and-jQ#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1"
+  }
+}
